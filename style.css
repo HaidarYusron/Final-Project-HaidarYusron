@@ -1,0 +1,115 @@
+body{
+    background-image: url("Forest Background Png 98 images in Collection Page 3.jpg");
+}
+
+#wolf{
+    margin: 50px
+}
+
+.login{
+    font-family: "Potta One", sans-serif;
+    text-align: center;
+    top: 100px;
+    position: relative;
+    background-color: azure;
+    height: 300px;
+    margin: 100px;
+    padding: 20px;
+}
+
+#rule{
+    background-color: greenyellow;
+    margin: 100px;
+    padding: 20px;
+    font-family: "Potta One", sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: greenyellow;
+    font-family: "Potta One", sans-serif;
+    
+}
+
+.sticky{
+    position: sticky;
+}
+
+#kotak1{
+    width: 100px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15pt;
+    text-align: center;
+    background: #353535;
+    color: #ffffff;
+}
+
+#kotak1:hover{
+    color:red
+}
+#kotak2{
+    width: 100px;
+    height: 200px;
+    float: left;
+    margin-left: 100px;
+    padding: 20px;
+    font-size: 15pt;
+    text-align: center;
+    background: #353535;
+    color: #ffffff;
+}
+#kotak2:hover{
+    color:red
+}
+#kotak3{
+    width: 100px;
+    height: 70px;
+    float: left;
+    margin-left: 200px;
+    padding: 70px;
+    font-size: 15pt;
+    text-align: center;
+    background: #353535;
+    color: #ffffff;
+}
+#kotak3:hover{
+    color:red
+}
+
+#kotak4{
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin: 120px;
+    padding: 20px;
+    font-size: 15pt;
+    text-align: center;
+    background: #353535;
+    color: #ffffff;
+    
+}
+
+#kotak4:hover{
+    color:red
+}
+#kotak5{
+    width: 100px;
+    height: 50px;
+    float: right;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15pt;
+    text-align: center;
+    background: #353535;
+    color: #ffffff;
+}
+#kotak5:hover{
+    color:red
+}
+
+button{
+    margin: 20px
+}
